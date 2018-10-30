@@ -1,6 +1,6 @@
 ﻿{
   "ProtocolConfiguration": {
-    "Magic": 58225482,
+    "Magic": 5822542,
     "AddressVersion": 23,
     "SecondsPerBlock": 3,
     "StandbyValidators": [
