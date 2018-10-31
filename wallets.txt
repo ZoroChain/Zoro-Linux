@@ -1,0 +1,25 @@
+create wallet 1.json
+password: ***
+password: ***
+address: AbE6cCQGstikD1QvwTnkrD3Jid6JGPY4oq
+ pubkey: 025178aa02ccb9a30c74c0e9771ed60d771710625e41d1ae37a192a6db2c00e7d6
+
+
+create wallet 2.json
+password: ***
+password: ***
+address: ANULCFJSek2qmaomk3x9KD4zR89rftsTKU
+ pubkey: 02ade1a21bd7d90b88299e7e1fef91c12fdc9988ad9100816d3b50cb6090fd88a2
+
+
+create wallet 3.json
+password: ***
+password: ***
+address: ASzuDdnb2Uzkk7XoXxsJ52Wx22er6VXWYt
+ pubkey: 02f0a7538d3aa6fc6a91315c5842733820df5b4ec1e4f273adc5d36eebd0f7463a
+
+create wallet 4.json
+password: ***
+password: ***
+address: AXBnQ5itNMYnNTW6YNvfR668AeYZ893hDR
+ pubkey: 03f35c16c5e8837697b9263f44f62be58c058562e76b033ed29a2223792901f6b1
