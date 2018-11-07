@@ -1,0 +1,1 @@
+cd CowboyLib;git pull;echo 'CowboyLib';cd;cd Zoro-Cli;git pull;echo 'Zoro-Cli';cd;cd Zoro;git pull;echo 'Zoro';dotnet build;echo 'build success';cd;cd Zoro-Cli/zoro-cli/bin/Debug/netcoreapp2.0;\cp Logrila* Cowboy* Zoro*  ~/Zoro-Linux;echo "copy success";cd;cd Zoro-Linux;ls;git add -u;git commit -m"update";git push;

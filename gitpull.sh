@@ -1,1 +1,0 @@
-cd CowboyLib;git pull;echo 'CowboyLib';cd;cd Zoro-Cli;git pull;echo 'Zoro-Cli';cd;cd Zoro;git pull;echo 'Zoro';dotnet build;echo 'build';cd;cd Zoro-Cli/zoro-cli/bin/Debug/netcoreapp2.0;sz *;
