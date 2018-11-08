@@ -1,1 +1,1 @@
-screen otnet Zoro-Cli.dll -logoff &
+screen dotnet Zoro-Cli.dll -logoff &
