@@ -16,33 +16,6 @@
       "115.159.68.43:20001"
     ],
     "SystemFee": {
-      "EnrollmentTransaction": 10,
-      "IssueTransaction": 5,
-      "PublishTransaction": 5,
-      "RegisterTransaction": 100
-    },
-    "AppChains": {
-      "Path": "AppChain/{0}_{1}",
-      "Chains": [
-        {
-          "Hash": "c52b5903f15b568e3ca094dc5429eba6279274b0",
-          "Port": 30005,
-          "WsPort": 30015,
-          "StartConsensus": true
-        },
-        {
-          "Hash": "d58f36db4fa4905f08674f0a9288f8ebd5097133",
-          "Port": 31005,
-          "WsPort": 31015,
-          "StartConsensus": true
-        },
-        {
-          "Hash": "93a78dfa619bd601c76b4fb421bce3703eebf911",
-          "Port": 32005,
-          "WsPort": 32015,
-          "StartConsensus": true
-        }
-      ]
     }
   }
 }
