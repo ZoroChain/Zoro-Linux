@@ -1,9 +1,0 @@
-﻿{
-  "AppChainConfiguration": {
-    "NetworkType": "Internet",
-    "Port": 25001,
-    "WsPort": 0,
-    "KeyNames": [ "Root" ],
-    "KeyHashes": []
-  }
-}
