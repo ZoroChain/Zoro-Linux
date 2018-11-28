@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "011911639b8f854837e6704a78a67a20dbe36e85"
+    "signature": "54024b892507431ef40c7e5ac78bad85c3e651dc"
   },
   "compilationOptions": {},
   "targets": {
@@ -553,11 +553,11 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "Neo.VM/2.3.1.1": {
+      "Neo.VM/2.3.3.1": {
         "runtime": {
           "lib/netstandard1.6/Neo.VM.dll": {
-            "assemblyVersion": "2.3.1.1",
-            "fileVersion": "2.3.1.1"
+            "assemblyVersion": "2.3.3.1",
+            "fileVersion": "2.3.3.1"
           }
         }
       },
@@ -1135,7 +1135,7 @@
           "Microsoft.AspNetCore.WebSockets": "2.1.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.1.4",
           "Microsoft.Extensions.Configuration.Json": "2.1.1",
-          "Neo.VM": "2.3.1.1",
+          "Neo.VM": "2.3.3.1",
           "System.Text.Encodings.Web": "4.5.0"
         },
         "runtime": {
@@ -1472,12 +1472,12 @@
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
     },
-    "Neo.VM/2.3.1.1": {
+    "Neo.VM/2.3.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HJDJjEtdRFWvkjk8t5c0iErrZ1g+qOxX6D8t3HlZJfB8puaE96mKt6utJ642DKVGQDjDPQu2ok8PGg594ZmprQ==",
-      "path": "neo.vm/2.3.1.1",
-      "hashPath": "neo.vm.2.3.1.1.nupkg.sha512"
+      "sha512": "sha512-+n/qTwpROYaMpsL826WjxtJe04DOMeYDJwiphjP4AUPUrEc/bLLIF6uBAySzS+8XIX1D8AOf/LuUXhkEoRJfHw==",
+      "path": "neo.vm/2.3.3.1",
+      "hashPath": "neo.vm.2.3.3.1.nupkg.sha512"
     },
     "Newtonsoft.Json/11.0.2": {
       "type": "package",
