@@ -6,10 +6,10 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Zoro-Cli/0.1.6": {
+      "Zoro-Cli/0.1.7": {
         "dependencies": {
           "Cowboy.Sockets": "1.0.0",
-          "ZoroChain": "0.1.6"
+          "ZoroChain": "0.1.7"
         },
         "runtime": {
           "Zoro-Cli.dll": {}
@@ -1126,7 +1126,7 @@
           "Logrila.Logging.dll": {}
         }
       },
-      "ZoroChain/0.1.6": {
+      "ZoroChain/0.1.7": {
         "dependencies": {
           "Akka": "1.3.10",
           "Microsoft.AspNetCore.ResponseCompression": "2.1.1",
@@ -1145,7 +1145,7 @@
     }
   },
   "libraries": {
-    "Zoro-Cli/0.1.6": {
+    "Zoro-Cli/0.1.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1874,7 +1874,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ZoroChain/0.1.6": {
+    "ZoroChain/0.1.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
