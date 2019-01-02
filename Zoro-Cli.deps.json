@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Zoro-Cli/0.1.7": {
+      "Zoro-Cli/0.1.8": {
         "dependencies": {
           "Cowboy.Sockets": "1.0.0",
           "ZoroChain": "0.1.7"
@@ -1145,7 +1145,7 @@
     }
   },
   "libraries": {
-    "Zoro-Cli/0.1.7": {
+    "Zoro-Cli/0.1.8": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
