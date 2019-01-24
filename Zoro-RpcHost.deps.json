@@ -9,7 +9,7 @@
       "Zoro-RpcHost/1.0.0": {
         "dependencies": {
           "Cowboy.Sockets": "1.0.0",
-          "ZoroChain": "0.1.9"
+          "ZoroChain": "0.2.0"
         },
         "runtime": {
           "Zoro-RpcHost.dll": {}
@@ -1137,7 +1137,7 @@
           "Logrila.Logging.dll": {}
         }
       },
-      "ZoroChain/0.1.9": {
+      "ZoroChain/0.2.0": {
         "dependencies": {
           "Akka": "1.3.11",
           "Microsoft.AspNetCore.ResponseCompression": "2.2.0",
@@ -1927,7 +1927,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ZoroChain/0.1.9": {
+    "ZoroChain/0.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
